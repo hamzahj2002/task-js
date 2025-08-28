@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+
+
+    background-image: url('blue-and-gold-background-9n5wmrnlvsx7ax94.jpg');
+    background-color: cornflowerblue;
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+    background-size: cover;
+}
+div{
+              display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+form{
+    background-image:linear-gradient(blue,white) ;
+    border: 2px solid black;
+    width: 70%;
+    padding: 15px 40% ;
+    
+    
+
+}
+img{
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 150px;
+    height: 150px;
+
+
+}
+.name1{
+      font-family: "Raleway", sans-serif;
+}
+.name2{
+      font-family: "Playwrite MX Guides", cursive;
+}
